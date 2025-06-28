@@ -51,6 +51,16 @@ rms-database-project/
    
 ---
 
+## 🔍 Example Queries
+
+- List active trains with schedules  
+- Top 5 passengers by bookings  
+- Revenue by payment method  
+- Passenger names starting with 'A'  
+- Ticket prices above threshold  
+
+---
+
 ## 🖼️ ER Diagram
 
 See `docs/ERD.pdf` for a complete Entity Relationship Diagram of the system.
@@ -62,7 +72,7 @@ See `docs/ERD.pdf` for a complete Entity Relationship Diagram of the system.
 **Abdul Ahad Tanvir**  
 📍 Lahore, Pakistan  
 📧 itisahadhere@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/abdul-ahad-tanvir-3b14a9283/)
+🔗 [LinkedIn](https://github.com/ItisAhadhere)
 
 ---
 
