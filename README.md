@@ -72,7 +72,7 @@ See `docs/ERD.pdf` for a complete Entity Relationship Diagram of the system.
 **Abdul Ahad Tanvir**  
 📍 Lahore, Pakistan  
 📧 itisahadhere@gmail.com  
-🔗 [LinkedIn](https://github.com/ItisAhadhere)
+🔗 [LinkedIn](https://www.linkedin.com/in/abdul-ahad-tanvir-3b14a9283/)
 
 ---
 
